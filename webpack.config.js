@@ -27,7 +27,7 @@ module.exports = {
     loaders: [{
       test: /\.jsx?$/,
       exclude: /node_modules/,
-      loaders: ['babel?optional[]=runtime&stage=0&cacheDirectory'],
+      loaders: ['babel']
     }]
   },
   plugins: [
