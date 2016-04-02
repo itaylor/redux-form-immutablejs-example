@@ -1,6 +1,6 @@
 {
   "name": "redux-form-immutablejs-example",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "An example implementation of redux-form using redux-immutablejs",
   "main": "src/app.js",
   "scripts": {

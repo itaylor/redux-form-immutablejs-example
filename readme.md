@@ -32,4 +32,4 @@ npm start
 Then open http://localhost:3000
 
 ###Implementation quirks
-This uses babel 5.8 because it uses decorators and they're still broken in babel 6 https://phabricator.babeljs.io/T2645
+This uses the `babel-plugin-transform-decorators-legacy` to get decorator support in babel 6.
